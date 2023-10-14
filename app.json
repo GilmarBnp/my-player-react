@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-player",
+    "slug": "my-player",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-player"
+}
